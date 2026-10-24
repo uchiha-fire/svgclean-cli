@@ -3,6 +3,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/svgclean-cli.svg)](https://pypi.org/project/svgclean-cli/)
 [![Python versions](https://img.shields.io/pypi/pyversions/svgclean-cli.svg)](https://pypi.org/project/svgclean-cli/)
 [![GitHub stars](https://img.shields.io/github/stars/uchiha-fire/svgclean-cli?style=social)](https://github.com/uchiha-fire/svgclean-cli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Sharma-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sharma-28487819b/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Zephyrus Labs](https://img.shields.io/badge/Developed%20by-Zephyrus%20Labs-6366f1.svg)](https://zephyrus-labs.tech/)
 
@@ -149,11 +150,13 @@ print(f"Processed {summary['files_processed']} files, neutralized {summary['tota
 
 ## Developed & Maintained by Zephyrus Labs
 
-Built and maintained by **[Zephyrus Labs](https://zephyrus-labs.tech/)**.
+Built and maintained with ❤️ by **[Zephyrus Labs](https://zephyrus-labs.tech/)** and Lead Developer **[Shubham Sharma](https://www.linkedin.com/in/shubham-sharma-28487819b/)**.
 
-- 🌐 Website: [zephyrus-labs.tech](https://zephyrus-labs.tech/)
-- 💻 GitHub: [@uchiha-fire](https://github.com/uchiha-fire)
-- ✉️ Contact: [zephyrus.labs@gmail.com](mailto:zephyrus.labs@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/shubham-sharma-28487819b](https://www.linkedin.com/in/shubham-sharma-28487819b/)
+- 💻 **GitHub**: [@uchiha-fire](https://github.com/uchiha-fire)
+- 🌐 **Website**: [zephyrus-labs.tech](https://zephyrus-labs.tech/)
+- ✉️ **Organization Email**: [zephyrus.labs@gmail.com](mailto:zephyrus.labs@gmail.com)
+- 📬 **Developer Email**: [sharmashubham25962@gmail.com](mailto:sharmashubham25962@gmail.com)
 
 If you find this tool helpful, please give it a ⭐️ on [GitHub](https://github.com/uchiha-fire/svgclean-cli)!
 

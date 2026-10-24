@@ -4,7 +4,7 @@
 [![Python versions](https://img.shields.io/pypi/pyversions/svgclean-cli.svg)](https://pypi.org/project/svgclean-cli/)
 [![GitHub stars](https://img.shields.io/github/stars/uchiha-fire/svgclean-cli?style=social)](https://github.com/uchiha-fire/svgclean-cli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Sharma-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sharma-28487819b/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/uchiha-fire/svgclean-cli/blob/main/LICENSE)
 [![Zephyrus Labs](https://img.shields.io/badge/Developed%20by-Zephyrus%20Labs-6366f1.svg)](https://zephyrus-labs.tech/)
 
 A robust SVG sanitizer, minifier, and security scrubber against XSS and XML exploits by **[Zephyrus Labs](https://zephyrus-labs.tech/)** for Linux, macOS, and Windows.
@@ -172,7 +172,7 @@ This tool builds upon and credits the exceptional work of open-source projects:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/uchiha-fire/svgclean-cli/blob/main/LICENSE) file for details.
 
 ---
 
